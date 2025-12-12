@@ -35,3 +35,11 @@ Hi, my name is Abdelwahab and I am a passionate artist who happened to have a co
 
 **Tools:** Figma · Photoshop · Clip Studio Paint 
 **Skills:** UI/UX Design · Digital Illustration · Branding
+
+---
+## 📫 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cherfi.m.abdelwahab@gmail.com)
